@@ -122,4 +122,9 @@
     <!-- About device screen, KryptonUI -->
     <string name="krypton_version">KryptonUI version</string>
 
+    <!-- KryptonUI maintainer in About phone -->
+    <string name="krypton_maintainer">Maintainer</string>
+    <string name="krypton_maintainer_name" translatable="false">VINC3NT</string>
+    <string name="krypton_maintainer_group" translatable="false">https://t.me/vincentsprojects</string>
+
 </resources>
