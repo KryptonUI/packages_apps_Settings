@@ -119,4 +119,7 @@
     <string name="system_black_theme_title">Use Black theme</string>
     <string name="system_black_theme_summary">Force black background colors</string>
 
+    <!-- About device screen, KryptonUI -->
+    <string name="krypton_version">KryptonUI version</string>
+
 </resources>
